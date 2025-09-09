@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nitin-jadhav" target="_blank">
+  <a href="https://www.linkedin.com/in/nitin-jadhav-9614743a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
