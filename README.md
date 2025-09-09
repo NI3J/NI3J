@@ -8,15 +8,15 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/techy-anshikagupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/nitin-jadhav" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/ANSHIKA71688056" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://www.instagram.com/anshikagupta.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **jadhavnitin75@gmail.com**
 
 
 **Languages and Tools:**  
@@ -60,10 +60,10 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-Jadhav&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitin-Jadhav&show_icons=true&theme=radical" alt="Nitin-Jadhav" height="159" />
 </p>
 <br>
-<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
+<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Jadhav&show_icons=true&locale=en&theme=radical" alt="Nitin-Jadhav" /></p>
 
 Hi
