@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Parallel Computation**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/NI3J 
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
